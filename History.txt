@@ -1,8 +1,12 @@
-3.0.0.alpha / 2010-10-24
+2.3.0.alpha / 2010-11-7
 
 * Liquid files now use autoload
 * Added release.rb
 * Removed changelog
+
+2.2.4 / 2010-08-25
+
+* For compatibility reasons, RubyGems dependency changed from >= 1.3.7 to >= 1.3.6. For instance 1.3.7 is incompatible with Heroku
 
 2.2.3 / 2010-08-24
 
